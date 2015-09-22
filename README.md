@@ -9,3 +9,11 @@ HOW
 2. cd
 3. metor
 4. profit!
+
+
+
+CONSOLE LOG
+===========
+```
+meteor add react
+```
