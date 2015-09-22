@@ -16,4 +16,6 @@ CONSOLE LOG
 ===========
 ```
 meteor add react
+meteor mongo
+db.tasks.insert({ text: "Hello world!", createdAt: new Date() });
 ```
