@@ -29,3 +29,8 @@ meteor add-platform android
 meteor run android
 ```
 
+auth
+====
+```
+meteor add accounts-ui accounts-password
+```
