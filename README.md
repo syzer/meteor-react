@@ -34,3 +34,10 @@ auth
 ```
 meteor add accounts-ui accounts-password
 ```
+can also add accounts-facebook
+
+security
+========
+```
+meteor remove insecure
+```
