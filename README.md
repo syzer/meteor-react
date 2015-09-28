@@ -21,4 +21,11 @@ db.tasks.insert({ text: "Hello world!", createdAt: new Date() });
 meteor deploy tasks-syzer.meteor.com
 ```
 
+Mobile devices
+==============
+```
+meteor install-sdk android
+meteor add-platform android
+meteor run android
+```
 
