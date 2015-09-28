@@ -1,3 +1,4 @@
+//because accounts use blaze templating engine
 AccountsUIWrapper = React.createClass({
     componentDidMount() {
         // Use Meteor Blaze to render login buttons
