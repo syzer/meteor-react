@@ -41,3 +41,10 @@ security
 ```
 meteor remove insecure
 ```
+
+
+pub-sub
+=======
+```
+meteor remove autopublish
+```
